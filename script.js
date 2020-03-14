@@ -37,7 +37,7 @@ $(document).ready(() => {
         .attr("id", blockHour + "textArea");
     } else if (currentHour < blockHour) {
       blockTextArea
-        .addClass("bg-success")
+        .addClass("bg-success text-white")
         .attr("data-value", blockID)
         .attr("id", blockHour + "textArea");
     } else {

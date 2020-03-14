@@ -2,6 +2,10 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1;
+    background-image: url(https://images.unsplash.com/photo-1542216172-f356fdd22653?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1325&q=80);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     }
   
   textarea{
@@ -11,6 +15,7 @@ body {
     color: #000000;
     border-left: 1px solid black;
     padding: 10px;
+    
   }
    
   .description{
