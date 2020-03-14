@@ -5,7 +5,7 @@ A simple application that allows a user to save to-do activities on an hourly ba
 [Work Day Scheduler](https://mwansamwango.github.io/work-day-scheduler/)
 
 ## Demo
-![Demo](https://www.github.com/MwansaMwango/work-day-scheduler/work-day-scheduler.gif)
+![Demo](https://github.com/MwansaMwango/work-day-scheduler/blob/master/work-day-scheduler.gif)
 
 ## User Story
 ```
