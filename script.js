@@ -1,10 +1,10 @@
 $(document).ready(() => {
-  // get current time
-  var currentTime = moment().format("dddd, MMMM D, YYYY.");
+  // get current date
+  var currentDate = moment().format("dddd, Do MMMM, YYYY.");
   // get current hour
   var currentHour = moment().format("HH");
   //
-  $("#currentDay").text(currentTime);
+  $("#currentDate").text(currentDate);
   // main loop to iterate through the elements
   // add time to left side. update color of text area and add listener to save button
 
